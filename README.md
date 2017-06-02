@@ -1,8 +1,8 @@
 # Kernel-Density-Estimation-using-Mixture-of-Gaussians
 
 The mean of log-likelihood is computed on given datasets using kernel density
-estimation based on mixture of Gaussians distributions. The standard devia-
-tion () corresponding to a Gaussian component is considered optimal when
+estimation based on mixture of Gaussians distributions. The standard deviation
+corresponding to a Gaussian component is considered optimal when
 there is a peak value observed in the computation of log-likelihood. This work
 is a maximum likelihood estimation on given datasets. The realized model has
 successfully found out the optimal standard deviation of Gaussian kernel on
